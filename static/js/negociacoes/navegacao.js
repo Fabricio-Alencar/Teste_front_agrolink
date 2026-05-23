@@ -8,7 +8,7 @@ import { API } from './api.js';
  * @param {string} tipoUsuario - 'produtor' ou 'estabelecimento'
  */
 
-const API_URL = "https://back-agrolink-bmbkepbbdkabdhhd.eastus-01.azurewebsites.net/";
+const API_URL = "https://teste-back-agrolink.azurewebsites.net/";
 
 
 // =========================
