@@ -1,4 +1,4 @@
-const API_URL = "https://back-agrolink-bmbkepbbdkabdhhd.eastus-01.azurewebsites.net/";
+const API_URL = "https://teste-back-agrolink.azurewebsites.net/";
 
 // Inicializar os ícones do Lucide
 lucide.createIcons();
